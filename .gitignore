@@ -13,9 +13,11 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+postgres-data/
 .eggs/
 lib/
 lib64/
+.vscode/
 parts/
 sdist/
 var/

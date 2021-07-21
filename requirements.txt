@@ -1,0 +1,4 @@
+meltano
+pyyaml
+psycopg2
+git+https://gitlab.com/meltano/tap-gitlab.git

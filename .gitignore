@@ -18,6 +18,7 @@ postgres-data/
 lib/
 lib64/
 .vscode/
+meltano-test/
 parts/
 sdist/
 var/
